@@ -16,7 +16,7 @@ Function Es mayor de edad (num) {
 	if(num => 18) {
 		return "Es mayor de edad";
 	  } else {
-		return "Es menor de edad"
+		return "Es menor de edad";
 	  }
 }
 	
