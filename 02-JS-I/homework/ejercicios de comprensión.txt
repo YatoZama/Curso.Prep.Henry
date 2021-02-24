@@ -1,0 +1,30 @@
+Variables: Son lugares donde se almancen valores y se pueden representar con letras. ejemplo: Se usa para poder llamar a una funcion entera con un pequeño comando que se asigno previamente.
+
+
+Strings: Es texto citado entre comillas. ejemplo: "Hola soy un String, como te va?"
+
+
+Funciones (argumentos, return): Las Funciones son lineas de codigo a las cuales se les asigna una palabra clave para poder llamarla y usarla mas adelante. ejmplo: 
+
+function suma(num) {
+	return num + num;
+}
+
+Declaraciones if: Las declaraciones if son Funciones condicionales algo asi como "si es verdadero haz la operacion A y si es falso haz la operacion B". ejemplo: 
+
+Function Es mayor de edad (num) {
+	if(num => 18) {
+		return "Es mayor de edad";
+	  } else {
+		return "Es menor de edad"
+	  }
+}
+	
+Valores booleanos (true, false): Determina si algo se considera verdadero o falso, Se puede usar en un return de un if. ejemplo:    
+
+if(num < 40) {
+    return true;
+  } else {
+    return false;
+  }
+}
