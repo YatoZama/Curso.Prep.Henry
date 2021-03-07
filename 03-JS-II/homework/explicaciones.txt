@@ -1,0 +1,6 @@
+for: for es una iteracion de tipo bucle que normalmente se usa para contar. consta de 3 partes, 1ro se declara una variable que es el valor de inicio, 2do se aplica una condicion que determina hasta que valor maximo se puede incrementar el valor inicial y 3ro se determina que tipo de incremento se le da a dicho valor.
+
+
+&&: estos 3 simbolos son lo que se conoce como operadores logicos, el primero && (y) se usa para hacer que una condicion dependa de la predesesora y por ende deberan cumplirse ambas para poner considerarse true. 
+||: en el caso de || (o) se usa para poner 2 condiciones en las que si 1 sola es verdera automaticamente es considerado true.
+!: el operador ! (no) se utiliza para negar un resultado o una operacion en concreto y tambien para intercambiar un valor true a false y viceversa segun se requiera. 
