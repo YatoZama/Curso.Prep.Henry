@@ -1,0 +1,1 @@
+Los Arrays tambien llamados arreglos, son valores concatenados en orden que pueden ser modificados, agregados, borrados, sustituidos o recorididos entre otros. muy utilis para trabajar con listas. 
